@@ -6,12 +6,15 @@ This is the website for the workshop "AI meets particles" from 07.07.2022 - 10.0
 location is LIP: Av. Prof. Gama Pinto 2. 
 
 ## Agenda
+This is the agenda for the workshop:
+
 time | Thursday | Friday | Saturday | Sunday
 -- |---|---|---|---
 09-12 | - | AI and particles | prep project | presentation
 13-17 | - | Project Ideas I |  project | compilation of project list and codes 
 17-19 | welcome | Project Ideas II | Hands on project | wrap up
 19  | | | conference dinner |
+
 
 ## Results and resources
 
