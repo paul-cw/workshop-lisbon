@@ -15,17 +15,11 @@ time | Thursday | Friday | Saturday | Sunday
 17-19 | welcome | Project Ideas II | Hands on project | wrap up
 19  | | | conference dinner |
 
-## test
-a | b 
--- | --
-c| d
 
 ## Results and resources
 
 ### codes: 
 solving bses with nns https://github.com/paul-cw/bse_neural
-
-### project ideas:
 
 
 
